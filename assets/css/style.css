@@ -25,26 +25,6 @@
          
 }
 
-/*
-
-.box1{
-    padding-left:67.15px;
-    padding-right: 67.16px;
-}
-.box2{
-    padding-left:2.31px;
-    padding-right: 2.32px;
-}
-/*
-.box3{
-    padding-left:3.85px;
-    padding-right: 3.85px;
-}
-.box4{
-    padding-left:55.685px;
-    padding-right: 55.685px;
-}
-*/
 
 a:link{
     color: #fff;
@@ -220,14 +200,7 @@ a:active{
 }
 
 
-.navlink {   
-padding-left:1rem;
-color: rgb(245, 240, 240);
-padding-right: 2rem;
-padding-top: 2rem;
-padding-bottom: 2rem;
-width:100vw;
-}
+
 
 
 /* MEDIA QUERIES SMALL DEVICESPX*/
@@ -283,14 +256,6 @@ width:100vw;
     border: none;
     background-color:transparent;
  }   
-
-
-.section .footer{
-    visibility:visible;
-        height: 200px;
-        position: fixed;
-        background: rgb(203, 205, 201);   
-    }
 
     .companyname{
         font-size: 55px;
