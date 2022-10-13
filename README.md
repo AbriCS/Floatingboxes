@@ -5,14 +5,10 @@
 ### Table of Contents
 * [Description](#description)<br>
 * [How to use the App](#how-this-app-might-be-used)
-                1. [Features](#features)
-                2. [Why Use the app](#why-use-this-animation)
-                3. [Important Note](#important-note)
+            <br>1. [Features](#features)<br>2. [Why Use the app](#why-use-this-animation)<br>3. [Important Note](#important-note)<br>
+
 * [Screenshot](#📷-screenshots)<br>
-
-
 * [Short Film](#🎞️-short-film)<br>
-
 * [My Portfolio](#🔗-links)<br>
 * [Acknowledgements](#acknowledgements)<br>
 
